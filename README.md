@@ -18,7 +18,8 @@ You can do;
 
 ![image](https://github.com/Arda-Bayarer/Musicstore_Management_System/assets/159937817/a15d471e-0862-40a0-ab7c-d338997b46ef)
 
-
+### ENJOY!
+----------------------
 Admin:
 Username: Arda
 Password: 1234
